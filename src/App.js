@@ -14,6 +14,7 @@ function App() {
         <RoomBtn room="Fan" apiOn="fanon" apiOff="fanoff"/>
         <RoomBtn room="Door Bell" apiOn="bellon" apiOff="belloff"/>
       </div>
+      <h3 className='footer'>Priyanka Anusha Amisha Bipul</h3>
     </div>
   );
 }
