@@ -1,0 +1,20 @@
+.customRoom {
+    width: fit-content;
+    margin: 7px auto;
+}
+
+.room {
+    text-align: left;
+    color: rgb(70, 70, 70);
+    font-size: 1.3rem;
+    width: 150px;
+}
+
+.btn {
+    height: 50px;
+}
+
+.switch {
+    text-decoration: none;
+    color: inherit;
+}
