@@ -8,7 +8,7 @@ export default function RoomBtn(props) {
         <Stack direction="row" spacing={2}>
         <h3 className='room'>{props.room}</h3>
         
-        <a className='switch' target="_blank" href={'http://192.168.66.197/'+props.apiOn}>
+        <a className='switch' target="_blank" href={'http://172.20.10.3/'+props.apiOn}>
 
             <Button className='btn' variant="contained" color="success">
                 ON
@@ -16,7 +16,7 @@ export default function RoomBtn(props) {
             
         </a>
         
-        <a className='switch' target="_blank" href={'http://192.168.66.197/'+props.apiOff}>
+        <a className='switch' target="_blank" href={'http://172.20.10.3/'+props.apiOff}>
             <Button className='btn' variant="outlined" color="error">
                 OFF
             </Button>
