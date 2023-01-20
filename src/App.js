@@ -10,7 +10,7 @@ function App() {
         <RoomBtn room="Living Room" apiOn="livingroomon" apiOff="livingroomoff"/>
         <RoomBtn room="Lounge" apiOn="loungeroomon" apiOff="loungeroomoff"/>
         <RoomBtn room="Garage" apiOn="garageon" apiOff="garageoff"/>
-        <RoomBtn room="Kitchen" apiOn="kithenroomon" apiOff="kitchenroomoff"/>
+        <RoomBtn room="Kitchen" apiOn="kitchenroomon" apiOff="kitchenroomoff"/>
         <RoomBtn room="Fan" apiOn="fanon" apiOff="fanoff"/>
         <RoomBtn room="Door Bell" apiOn="bellon" apiOff="belloff"/>
       </div>
