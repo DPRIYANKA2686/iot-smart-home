@@ -10,7 +10,7 @@ export default function RoomBtn(props) {
         
         <a className='switch' target="_blank" href={'http://192.168.100.197/'+props.apiOn}>
 
-            <Button className='btn' onClick={handleClose} variant="contained" color="success">
+            <Button className='btn' variant="contained" color="success">
                 ON
             </Button>
             
